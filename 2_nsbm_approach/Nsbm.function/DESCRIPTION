@@ -1,0 +1,20 @@
+Package: Nsbm.function
+Type: Package
+Title: Calculation of efficiency with the Network slack-based measure (NSBM) approach
+Version: 0.1.0
+Author: Thomas Krupa <t.krupa@hotmail.de>
+Maintainer: Thomas Krupa <t.krupa@hotmail.de>
+Description: The nsbm function can calculate efficiency by using the NSBM approach. Different variants can be 
+    used such as direction (e.g. non, input or output), return to scale variant (e.g. CRS or VRS) or network variant 
+    (e.g. fix or free constraint). It is also possible to calculate the efficiency for one division (K=1) and no 
+    network.
+Imports:
+    lpSolve,
+    testthat
+Suggests:
+    devtools,
+    roxygen2
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
