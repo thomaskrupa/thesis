@@ -2,12 +2,12 @@
 
 `R` functions and code for the PhD dissertation of Thomas Krupa (University of Gdansk) @[`github.com/thomaskrupa/thesis/`](https://github.com/thomaskrupa/thesis/).
 
->  This directory contains R code for data preparation, NSBM requirement checks, calculation of the NSBM approach, statistical methods and OLS regression.
+>  This directory contains `R` code for data preparation, NSBM requirement checks, calculation of the NSBM approach, statistical methods and OLS regression.
 
 
 ### :orange_book: Navigation :orange_book:
 
-This Github directory of the Appendix contains all of the R codes of this dissertation which are divided into six parts.
+This Github directory of the Appendix contains all of the `R` codes of this dissertation which are divided into six parts.
 
 * First, the R codes for preparing the database is described (see folder `0_preparation`). 
 * Then, the R codes for checking the NSBM requirements is presented (see folder `1_requirements_nsbm`). 
